@@ -47,10 +47,19 @@ The consolidated engineering report describes the proposed validation approach. 
 
 The current budgetary BOM estimate is approximately ₹46,700 before tax, shipping, labour, certification and rework. All costs require supplier/workshop quotes. The thermal model is first-order; final heater geometry requires verification against the dimensioned drawing and may need FEA or iterative testing. No performance specification should be described as achieved until measured data demonstrates it.
 
+## Video walkthrough
+
+[Watch the hot plate design walkthrough on Loom](https://www.loom.com/share/d745eae192814e4c8c52502e47603996)
+
+## Submission PDFs
+
+- [Part 1 Motivation.pdf](https://github.com/suresh-vlsi/KSureshKumar_HackerFabIITB_Submission/blob/main/Part%201%20Motivation.pdf)
+- [Part 2B Hot plate design.pdf](https://github.com/suresh-vlsi/KSureshKumar_HackerFabIITB_Submission/blob/main/Part%202B%20Hot%20plate%20design.pdf)
+
 ## Repository contents
 
-- `Motivation.pdf` — Part 1 Motivation statement (linked above as “Part 1 Motivation.pdf”).
-- `Design a Hot plate for semiconductor processing.pdf` — consolidated Part 2B engineering report (linked above as “Part 2B Hot plate design.pdf”).
+- `Part 1 Motivation.pdf` — Part 1 Motivation statement.
+- `Part 2B Hot plate design.pdf` — consolidated Part 2B engineering report.
 - `CAD/HackerFab_Hot_Plate_AllInOne.FCMacro` — FreeCAD macro.
 - `CAD/HackerFab_Hot_Plate_Desin.FCStd` — FreeCAD model (filename retained as supplied).
 - `CAD/Hot Plate Dimensioned Concept Drawing.FCStd` — FreeCAD drawing model.
