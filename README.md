@@ -3,9 +3,6 @@
 
 **Status:** Engineering proposal with first-order calculations and a validation plan. This is not a fabricated or experimentally validated instrument.
 
-- **Part 1 — Motivation:** [`Part 1 Motivation.pdf`](Motivation.pdf)
-- **Part 2B — Detailed engineering report:** [`Part 2B Hot plate design.pdf`](Design%20a%20Hot%20plate%20for%20semiconductor%20processing.pdf)
-- **Video walkthrough (10 minutes maximum):** *Add the published YouTube or Loom URL before submission.*
 
 ## 1. Motivation and design choice
 
